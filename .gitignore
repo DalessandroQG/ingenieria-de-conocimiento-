@@ -1,0 +1,4 @@
+mlruns/
+*.csv
+*.joblib
+month data */
